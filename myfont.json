@@ -1,0 +1,12 @@
+{
+  "name": "MyFont",
+  "author": "Me",
+  "fonts": [
+    {
+      "name": "Regular",
+      "weight": 400,
+      "style": "normal",
+      "file": "PASTE_FONT_LINK_HERE"
+    }
+  ]
+}
