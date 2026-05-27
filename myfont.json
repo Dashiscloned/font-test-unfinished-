@@ -1,12 +1,8 @@
 {
-  "name": "MyFont",
-  "author": "Me",
-  "fonts": [
-    {
-      "name": "Regular",
-      "weight": 400,
-      "style": "normal",
-      "file": "https://github.com/Dashiscloned/font-test-unfinished-/raw/refs/heads/main/batmfa__.ttf"
-    }
-  ]
+  "spec": 1,
+  "name": "My Batman Font",
+  "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog",
+  "main": {
+    "Regular": "https://github.com/Dashiscloned/font-test-unfinished-/raw/refs/heads/main/batmfa__.ttf"
+  }
 }
